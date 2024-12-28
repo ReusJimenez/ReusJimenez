@@ -3,14 +3,14 @@ Hola, soy Roberto Eustaquio 👋 Estudiante de Ingeniería de Sistemas en la Uni
 
 ## 🌐 Mis redes sociales:
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reus.jimenez02) -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reus_jimenez/) 
 <!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Reus_Jimenez02) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reus_jimenez/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-eustaquio/) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-003366.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -32,11 +32,9 @@ Hola, soy Roberto Eustaquio 👋 Estudiante de Ingeniería de Sistemas en la Uni
 
 # 📊 Mis estadísticas:
 <!-- Aquí puedes ver un resumen de mi actividad en GitHub, incluyendo mis contribuciones y los lenguajes que más uso. -->
-![](https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ReusJimenez&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=ReusJimenez&bg_color=ffffff&color=333333&line=ff0000&point=00ff00&area=true)<br/>
-![GitHub stars](https://img.shields.io/github/stars/ReusJimenez?style=social)
+![](https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ReusJimenez&theme=graywhite&hide_border=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ReusJimenez&icon=8&color=12)](https://visitcount.itsvg.in)
