@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-Hola, soy Roberto Eustaquio 👋 Estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú) y futuro Ingeniero de Datos con un gran interés en cómo los datos pueden transformar decisiones estratégicas y optimizar procesos. Con experiencia en Python, SQL, análisis de datos, machine learning y Big Data. Actualmente estoy perfeccionando mis habilidades en visualización de datos y procesamiento de grandes volúmenes de información.
+Hola, soy Roberto Eustaquio 👋 Estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú) y futuro Ingeniero de Datos con un gran interés en cómo los datos pueden transformar decisiones estratégicas y optimizar procesos. Con experiencia académica en Python, SQL, análisis de datos y machine learning. Actualmente estoy perfeccionando mis habilidades en visualización de datos y procesamiento de grandes volúmenes de información.
 
 ## 🌐 Mis redes sociales:
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reus.jimenez02) -->
@@ -20,14 +20,14 @@ Hola, soy Roberto Eustaquio 👋 Estudiante de Ingeniería de Sistemas en la Uni
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+<!-- ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+<!-- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)  -->
+<!-- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)  -->
+<!-- ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)  -->
+<!-- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  -->
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 # 📊 Mis estadísticas:
