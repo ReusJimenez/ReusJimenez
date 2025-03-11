@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-Hola, soy Roberto Eustaquio 👋 Estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú) y futuro Ingeniero de Datos con un gran interés en cómo los datos pueden transformar decisiones estratégicas y optimizar procesos. Con experiencia académica en Python, SQL, análisis de datos y machine learning. Actualmente estoy perfeccionando mis habilidades en visualización de datos y procesamiento de grandes volúmenes de información.
+Hola, soy Roberto Eustaquio Jiménez 👋 Estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú) y futuro Ingeniero de Datos con un gran interés en cómo los datos pueden transformar decisiones estratégicas y optimizar procesos. Con experiencia académica en Python, SQL, análisis de datos y machine learning. Actualmente estoy perfeccionando mis habilidades en visualización de datos y procesamiento de grandes volúmenes de información.
 
 ## 🌐 Mis redes sociales:
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reus.jimenez02) -->
@@ -35,6 +35,7 @@ Hola, soy Roberto Eustaquio 👋 Estudiante de Ingeniería de Sistemas en la Uni
 ![](https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ReusJimenez&theme=graywhite&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!-- 
 ---
-[![](https://visitcount.itsvg.in/api?id=ReusJimenez&icon=8&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ReusJimenez&icon=8&color=12)](https://visitcount.itsvg.in) 
+-->
