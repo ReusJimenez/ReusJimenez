@@ -31,11 +31,9 @@ Hola, soy Roberto Eustaquio Jiménez 👋 Estudiante de Ingeniería de Sistemas 
 <!-- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  -->
 
 # 📊 Mis estadísticas:
-<!-- Aquí puedes ver un resumen de mi actividad en GitHub, incluyendo mis contribuciones y los lenguajes que más uso. -->
 ![](https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ReusJimenez&theme=graywhite&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- 
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=ReusJimenez&icon=8&color=12)](https://visitcount.itsvg.in) 
--->
