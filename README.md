@@ -1,10 +1,10 @@
 # 💫 Acerca de mí:
-Hola, soy Roberto Eustaquio Jiménez 👋 Estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú), practicante como Analista de datos y futuro Ingeniero de Datos con un gran interés en cómo los datos pueden transformar decisiones estratégicas y optimizar procesos. Cuento con experiencia académica en Python, SQL, análisis de datos y machine learning. Actualmente estoy perfeccionando mis habilidades en visualización de datos y procesamiento de grandes volúmenes de información.
+Hola, soy Roberto Eustaquio Jiménez 👋 Estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú), practicante como Analista de datos y futuro Ingeniero de Datos con un gran interés en cómo los datos pueden transformar decisiones estratégicas y optimizar procesos. Cuento con conocimientos y experiencia académica en Python, SQL, análisis y visualización de datos, además de nociones en machine learning. He desarrollado proyectos personales en los que he aplicado estas habilidades para analizar datos, generar visualizaciones y extraer insights valiosos. Actualmente estoy perfeccionando mis habilidades en procesamiento de grandes volúmenes de información.
 
 ## 🌐 Mis redes sociales:
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reus.jimenez02) -->
 <!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Reus_Jimenez02) -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reus_jimenez/) 
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reus_jimenez/) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-eustaquio/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
 
@@ -34,6 +34,7 @@ Hola, soy Roberto Eustaquio Jiménez 👋 Estudiante de Ingeniería de Sistemas 
 ![](https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ReusJimenez&theme=graywhite&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- 
+<!-- 
 ---
 [![](https://visitcount.itsvg.in/api?id=ReusJimenez&icon=8&color=12)](https://visitcount.itsvg.in) 
+-->
