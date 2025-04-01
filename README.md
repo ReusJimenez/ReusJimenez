@@ -1,12 +1,17 @@
 # 💫 Acerca de mí:
-Hola, soy Roberto Eustaquio Jiménez 👋 Estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú), practicante como Analista de datos y futuro Ingeniero de Datos con un gran interés en cómo los datos pueden transformar decisiones estratégicas y optimizar procesos. Cuento con conocimientos y experiencia académica en Python, SQL, análisis y visualización de datos, además de nociones en machine learning. He desarrollado proyectos personales en los que he aplicado estas habilidades para analizar datos, generar visualizaciones y extraer insights valiosos. Actualmente estoy perfeccionando mis habilidades en procesamiento de grandes volúmenes de información.
+- Hola, soy Roberto Eustaquio Jiménez, estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú), practicante como Analista de datos y futuro Ingeniero de Datos con un gran interés en cómo los datos pueden transformar decisiones estratégicas y optimizar procesos. 
+- Cuento con conocimientos y experiencia académica en Python, SQL, análisis y visualización de datos, además de nociones en machine learning. He desarrollado proyectos personales en los que he aplicado estas habilidades para analizar datos, generar visualizaciones y extraer insights valiosos.
 
-## 🌐 Mis redes sociales:
+<!-- ## 📩 ¿Te interesa colaborar o conectar?
+**No dudes en contactarme** si quieres conversar sobre **análisis de datos, machine learning o posibles oportunidades profesionales**. Estoy abierto a nuevas conexiones y proyectos. -->
+
+## 🌐 Mis redes y contacto:
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reus.jimenez02) -->
 <!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Reus_Jimenez02) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reus_jimenez/) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-eustaquio/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
+[![📄 Mi CV](https://img.shields.io/badge/Mi%20CV-%230077B5?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
