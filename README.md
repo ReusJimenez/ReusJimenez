@@ -1,15 +1,15 @@
 # 🌟 Acerca de mí
-- Soy Roberto Eustaquio Jiménez, estudiante del noveno ciclo de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú). Actualmente me encuentro en formación como Analista e Ingeniero de Datos.
+- Soy Roberto Eustaquio Jiménez, estudiante del 9no ciclo de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal (Perú). Actualmente me encuentro en formación como Analista e Ingeniero de Datos.
 - Tengo experiencia académica en el manejo de datos: desde su procesamiento y análisis hasta la visualización. Principalmente he utilizado Python, SQL y herramientas de Business Intelligence, aplicando estos conocimientos en proyectos personales para extraer insights y generar valor a partir de los datos.
 - Busco seguir creciendo profesionalmente participando en proyectos reales donde pueda aplicar mis habilidades, aprender de otros y aportar desde el rol de practicante o analista junior.
 
 ## 📩 Mis redes y contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/roberto-eustaquio/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
-[![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing)
+[![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing) 
 <!-- [![Mis Certificados](https://img.shields.io/badge/Mis%20Certificados-%230077B5?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/drive/folders/1XIYg82s48XN0dNXxFEVXJUpGfAG6nCOS?usp=drive_link) -->
-<!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Reus_Jimenez02) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reus_jimenez/) -->
+<!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Reus_Jimenez02) -->
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
