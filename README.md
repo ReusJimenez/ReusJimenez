@@ -4,20 +4,19 @@
 - Busco seguir creciendo profesionalmente participando en proyectos reales donde pueda aplicar mis habilidades, aprender de otros y aportar desde el rol de practicante o analista junior.
 
 ## 📩 Mis redes y contacto
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-eustaquio/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com)
-[![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing)
-<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/roberto-eustaquio/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
 [![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing) 
+<!--
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-eustaquio/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
+[![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reus_jimenez/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Reus_Jimenez02) 
 -->
 
-# 💻 Tech Stack
+# 💻 Mi Stack Tecnológico
 <div align="left">
-
   <h4>Lenguajes y Bases de Datos</h4>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/sql-003366.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
@@ -29,9 +28,10 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   -->
-
   <h4>Análisis de Datos y BI</h4>
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <!-- <img src="https://img.shields.io/badge/looker_studio-4285F4?style=for-the-badge&logoColor=white" alt="Looker Studio"/> -->
+  <!-- <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> -->
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
