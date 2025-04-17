@@ -53,7 +53,9 @@
 
 # 📊 Mis estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=graywhite&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" height="170" alt="languages graph"  />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReusJimenez&theme=graywhite&hide_border=false&locale=es" height="180" alt="streak stats"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=graywhite&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es" height="175" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" height="175" alt="languages graph"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReusJimenez&theme=graywhite&hide_border=false&locale=es" height="175" alt="streak stats"/> -->
 </div>
+
+<!-- <h1 align="center">💻 Mira mis respositorios ⬇️ </h1> -->
