@@ -4,16 +4,13 @@
 - Busco seguir creciendo profesionalmente participando en proyectos reales donde pueda aplicar mis habilidades, aprender de otros y aportar desde el rol de practicante o analista junior.
 
 ## 📩 Mis redes y contacto
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/roberto-eustaquio/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-eustaquio/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com)
+[![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing)
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/roberto-eustaquio/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
 [![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing) 
--->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-eustaquio/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
-[![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing) 
-
-<!-- 
-[![Mis Certificados](https://img.shields.io/badge/Mis%20Certificados-%230077B5?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/drive/folders/1XIYg82s48XN0dNXxFEVXJUpGfAG6nCOS?usp=drive_link) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reus_jimenez/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Reus_Jimenez02) 
 -->
@@ -56,7 +53,7 @@
 
 # 📊 Mis estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=graywhite&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" height="165" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=graywhite&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" height="170" alt="languages graph"  />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReusJimenez&theme=graywhite&hide_border=false&locale=es" height="180" alt="streak stats"  /> -->
 </div>
