@@ -6,7 +6,7 @@
 ## 📩 Mis redes y contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/roberto-eustaquio/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
-[![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1oDfquNMkjUdg_IDSrDPl0XKCABy-tn-P/view?usp=sharing) 
+[![Mi CV](https://img.shields.io/badge/Mi%20CV-%234A8E34?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1Ercq4SJMbVY0QpvuPuxn-booGc-Idzy5/view?usp=sharing) 
 <!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-eustaquio/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reusjimenez2002@gmail.com) 
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   -->
   <h4>Análisis de Datos y BI</h4>
+  <img src="https://img.shields.io/badge/microsoft_excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <!-- <img src="https://img.shields.io/badge/looker_studio-4285F4?style=for-the-badge&logoColor=white" alt="Looker Studio"/> -->
   <!-- <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> -->
