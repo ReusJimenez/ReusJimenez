@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   -->
-  <h4>Análisis de Datos y BI</h4>
+  <h4>Análisis de Datos y Business Intelligence</h4>
   <img src="https://img.shields.io/badge/microsoft_excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <!-- <img src="https://img.shields.io/badge/looker_studio-4285F4?style=for-the-badge&logoColor=white" alt="Looker Studio"/> -->
