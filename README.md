@@ -18,9 +18,11 @@
   <!--<h4>Lenguajes y Bases de Datos</h4>-->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/sql-003366.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/google%20bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <!--
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -46,6 +48,9 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Apache Spark"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka"/>
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"/>
+  <img src="https://img.shields.io/badge/PySpark-%23E3518F.svg?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Dask-%2300599C.svg?style=for-the-badge&logo=dask&logoColor=white" alt="Dask"/>
+  <img src="https://img.shields.io/badge/Polars-%231A1A1A.svg?style=for-the-badge&logo=polars&logoColor=white" alt="Polars"/>
   -->
   <!--<h4>Contenedores y Orquestación</h4>-->
   <!--
@@ -59,6 +64,6 @@
 
 ## 📊 Actividad en GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=react&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es" height="162" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es&v=1" height="162" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=react&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" height="160" alt="languages graph"/>
 </div>
