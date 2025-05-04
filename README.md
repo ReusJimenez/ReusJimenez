@@ -1,5 +1,7 @@
 ## 🌟 Universitario de Ingeniería de Sistemas
-#### En proceso de especialización como analista de datos, combinando formación académica y práctica en proyectos personales.
+<div align="center">
+  <h4>En proceso de especialización como analista de datos, combinando formación académica y práctica en proyectos personales.</h4>
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/roberto-eustaquio/">
@@ -8,21 +10,24 @@
   <a href="mailto:reusjimenez2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://drive.google.com/file/d/1Ercq4SJMbVY0QpvuPuxn-booGc-Idzy5/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-%234A8E34?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV">
+  <a href="https://roberto-eustaquio-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portafolio-%234A8E34?style=for-the-badge&logoColor=white" alt="Portafolio">
   </a>
+  <!--<a href="https://drive.google.com/file/d/1Ercq4SJMbVY0QpvuPuxn-booGc-Idzy5/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-%234A8E34?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV">
+  </a>-->
 </div>
 
 ## 💻 Stack Tecnológico
 <div align="left">
   <!--<h4>Lenguajes y Bases de Datos</h4>-->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/sql-003366.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
-  <!--
+  <img src="https://img.shields.io/badge/mysql-003366.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/google%20bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
+  <!--
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -65,6 +70,6 @@
 
 ## 📊 Actividad en GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=react&hide_title=true&hide_border=false&include_all_commits=true&count_private=true&locale=es" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" height="160" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=react&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es" height="160" alt="Estadísticas graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" height="160" alt="Lenguajes top graph"/>
 </div>
