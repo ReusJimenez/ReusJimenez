@@ -13,20 +13,17 @@
   <a href="https://roberto-eustaquio-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portafolio-%234A8E34?style=for-the-badge&logoColor=white" alt="Portafolio">
   </a>
-  <!--<a href="https://drive.google.com/file/d/1Ercq4SJMbVY0QpvuPuxn-booGc-Idzy5/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-%234A8E34?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV">
-  </a>-->
 </div>
 
-## 💻 Stack Tecnológico
+## 💻 Habilidades técnicas
 <div align="left">
   <!--<h4>Lenguajes y Bases de Datos</h4>-->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/mysql-003366.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/google%20bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery"/>
+  <img src="https://img.shields.io/badge/sqlite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
   <!--
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
@@ -42,6 +39,7 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <!--<h4>Plataformas en la Nube</h4>-->
   <!--
