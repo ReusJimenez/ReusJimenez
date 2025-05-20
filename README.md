@@ -1,6 +1,6 @@
 ## 🌟 Universitario de Ingeniería de Sistemas
 <div align="center">
-  <h4>En proceso de especialización como analista de datos, combinando formación académica y práctica en proyectos personales.</h4>
+  <h4>En proceso de especialización como analista de datos, combinando formación académica y experiencia en proyectos personales.</h4>
 </div>
 
 <div align="center">
@@ -21,10 +21,9 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/mysql-003366.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/sqlite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery"/>
+<!--   <img src="https://img.shields.io/badge/google_bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery"/> -->
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
   <!--
-  <img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -68,6 +67,6 @@
 
 ## 📊 Actividad en GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=react&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es" height="160" alt="Estadísticas graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es" height="160" alt="Lenguajes top graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=react&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es&v=1" height="160" alt="Gráfico Estadísticas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es&v=2" height="160" alt="Gráfico Top Lenguajes"/>
 </div>
