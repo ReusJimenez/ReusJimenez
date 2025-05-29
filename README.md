@@ -1,6 +1,6 @@
 ## 🌟 Universitario de Ingeniería de Sistemas
 <div align="center">
-  <h4>En proceso de especialización como analista de datos, combinando formación académica, experiencia en proyectos personales y en prácticas preprofesionales.</h4>
+  <h4>En proceso de especialización como analista de datos, combinando formación académica y experiencia en proyectos personales.</h4>
 </div>
 
 <div align="center">
