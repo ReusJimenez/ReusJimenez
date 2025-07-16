@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/mysql-003366.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/sqlite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<!--   <img src="https://img.shields.io/badge/google_bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery"/> -->
+  <img src="https://img.shields.io/badge/google_bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
   <!--
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -68,5 +68,5 @@
 ## 📊 Actividad en GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=react&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es&v=1" height="160" alt="Gráfico Estadísticas"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es&v=2" height="160" alt="Gráfico Top Lenguajes"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es&v=1" height="160" width="350" alt="Gráfico Top Lenguajes"/>
 </div>
