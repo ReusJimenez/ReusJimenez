@@ -1,6 +1,6 @@
-## 🌟 Universitario de Ingeniería de Sistemas
+## 🌟 Egresado de Ingeniería de Sistemas
 <div align="center">
-  <h4>En proceso de especialización como analista de datos, combinando formación académica, experiencia en proyectos personales y prácticas preprofesionales.</h4>
+  <h4>En proceso de especialización como analista de datos, combinando formación académica, experiencia en proyectos personales y prácticas profesionales.</h4>
 </div>
 
 <div align="center">
@@ -66,7 +66,7 @@
 </div>
 
 ## 📊 Actividad en GitHub
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReusJimenez&theme=react&hide_title=true&hide_border=false&include_all_commits=false&count_private=false&locale=es&v=1" height="160" alt="Gráfico Estadísticas"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReusJimenez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=es&v=1" height="160" width="350" alt="Gráfico Top Lenguajes"/>
-</div>
+</div> -->
